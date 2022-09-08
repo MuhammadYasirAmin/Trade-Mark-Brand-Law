@@ -1,0 +1,5 @@
+[13-Jan-2022 09:24:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mmachbon_do_class_help.Leads_Table' doesn't exist in /home/mmachbon/doclasshelp.com/D A T A B A S E/index.php:45
+Stack trace:
+#0 /home/mmachbon/doclasshelp.com/D A T A B A S E/index.php(45): mysqli_query()
+#1 {main}
+  thrown in /home/mmachbon/doclasshelp.com/D A T A B A S E/index.php on line 45
